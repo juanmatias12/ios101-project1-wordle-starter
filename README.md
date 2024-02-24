@@ -1,4 +1,4 @@
-# Project 1 - Wordl
+# Project 1 - Wordle
 
 Submitted by: Juan Matias
 
